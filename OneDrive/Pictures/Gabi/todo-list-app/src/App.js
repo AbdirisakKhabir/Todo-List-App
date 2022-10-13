@@ -15,6 +15,16 @@ const works = [
     id: "2",
     done: false,
   },
+  {
+    name: "Sports",
+    id: "2",
+    done: false,
+  },
+  {
+    name: "Sports",
+    id: "2",
+    done: false,
+  },
 ];
 class App extends React.Component {
   constructor() {
